@@ -3,5 +3,5 @@ I will post here my progress in data analysis using football data taken from [St
 
 ## Barcelona Analysis
 
-![]("images/goal_difference.png")
-![]("images/scatter_goals.png")
+![](images/goal_difference.png)
+![](images/scatter_goals.png)
